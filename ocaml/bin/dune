@@ -1,3 +1,12 @@
 (executables
- (public_names cf0001A cf0004A cf0050A cf0071A cf0158A cf0231A cf0282A)
+ (public_names
+  cf0001A
+  cf0004A
+  cf0050A
+  cf0071A
+  cf0112A
+  cf0158A
+  cf0231A
+  cf0263A
+  cf0282A)
  (libraries ocaml))
