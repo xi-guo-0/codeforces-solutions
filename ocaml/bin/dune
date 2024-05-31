@@ -8,5 +8,6 @@
   cf0158A
   cf0231A
   cf0263A
-  cf0282A)
+  cf0282A
+  cf0339A)
  (libraries ocaml))
